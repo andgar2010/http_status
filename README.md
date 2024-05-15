@@ -1,8 +1,10 @@
 # http_status
 
+Constants enumerating the HTTP status codes in Dart. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
+
 <p align="center">
 
-[![Pub Package](https://img.shields.io/pub/v/http_status.svg?style=flat)](https://pub.dartlang.org/packages/http_status)
+[![Pub Package](https://img.shields.io/pub/v/http_status.svg?style=flat)](https://pub.dev/packages/http_status)
 [![build status](https://github.com/DartForge/http_status/actions/workflows/build.yml/badge.svg)](https://github.com/DartForge/http_status/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/DartForge/http_status/badge.svg?branch=main)](https://coveralls.io/github/DartForge/http_status?branch=main)
 [![Star this Repo](https://img.shields.io/github/stars/DartForge/http_status.svg?style=flat)](https://github.com/DartForge/http_status)
@@ -10,7 +12,7 @@
 
 </p>
 
-Constants enumerating the HTTP status codes in Dart. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
+If you want to support this project, please leave a star, share this project.
 
 <details>
   <summary><h2>Codes of Http Status </h2></summary>
